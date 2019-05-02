@@ -1,11 +1,9 @@
-# DM22-Toy-Problems
+# Boom.Camp Toy Problems
 
 This repository is for the storage of and reference to toy problems.
 
 The toy problems below are separated by week, providing both a beginner and advanced option depending
 on the experience level of the current class. There are also links to solution pages.
-
-Also feel free to add any additional toy problems to this repo, under the "Miscellaneous" section, if you believe they would be good additions to the toy problems rotation. Just be sure to provide a link to both a question page and a solutions page, in a similar format to the below.
 
 ## Week 1
 
@@ -14,9 +12,9 @@ Also feel free to add any additional toy problems to this repo, under the "Misce
 **Beginner Toy Problem**:
 
 > First Reverse Try: https://repl.it/@AodhanHayter/First-Reverse
-
+>
 > Solution: https://repl.it/@AodhanHayter/f866bbaefd5cf2fe9c4f3fa258c71fcb
-
+>
 > Kata Link: https://www.codewars.com/kata/simple-fun-number-20-first-reverse-try/train/javascript
 
 ### Tuesday:
@@ -24,34 +22,34 @@ Also feel free to add any additional toy problems to this repo, under the "Misce
 **Beginner Toy Problem:**
 
 > Are the numbers in order: https://repl.it/@AodhanHayter/Are-the-numbers-in-order
-
+>
 > Solution: https://repl.it/@AodhanHayter/c22054168030d333ba9eb07366a9730e
-
+>
 > Kata Link: https://www.codewars.com/kata/are-the-numbers-in-order/train/javascript
 
 **Advanced Toy Problem:**\
 
 > SUPERSIZE ME.... or rather, this integer!: https://repl.it/@AodhanHayter/super-size-this-integer
-
+>
 > Solution: https://repl.it/@AodhanHayter/481abc71ed157646d5479eb1e5b7b1bf
-
+>
 > Kata Link: https://www.codewars.com/kata/noobcode-01-supersize-me-dot-dot-dot-or-rather-this-integer/train/javascript
 
 ### Wednesday:
 **Beginner Toy Problem:**
 
 > Fizz Buzz: https://repl.it/@AodhanHayter/fizz-buzz
-
+>
 > Solution: https://repl.it/@AodhanHayter/5ad077edd9f638022c119ae56bc530c1
-
+>
 > Kata Link: https://www.codewars.com/kata/fizz-buzz/train/javascript<br>
 
 **Advanced Toy Problem:**
 
 > Remove the Minimum: https://repl.it/@AodhanHayter/remove-the-minimum
-
+>
 > Solution: https://repl.it/@AodhanHayter/a53bd6f8dde08a8dbccfa4ecfc52fb66
-
+>
 > Kata Link: https://www.codewars.com/kata/remove-the-minimum
 
 
@@ -59,17 +57,17 @@ Also feel free to add any additional toy problems to this repo, under the "Misce
 **Beginner Toy Problem:**
 
 > Complimentary DNA: https://repl.it/@AodhanHayter/complimentary-dna
-
+>
 > Solution: https://repl.it/@AodhanHayter/b2236c764673ab5e5ef670efb3b7256c
-
+>
 > Kata Link: https://www.codewars.com/kata/complementary-dna
 
 **Advanced Toy Problem:**
 
 > Help Suzuki rake his garden: https://repl.it/@AodhanHayter/help-suzuki-rake-his-garden
-
+>
 > Solution: https://repl.it/@AodhanHayter/1a435570e75635f77453d3fc063f948d
-
+>
 > Kata Link: https://www.codewars.com/kata/help-suzuki-rake-his-garden
 
 ## Week 2
@@ -79,68 +77,68 @@ Also feel free to add any additional toy problems to this repo, under the "Misce
 **Beginner Toy Problem:**
 
 > Disemvowel Trolls: https://repl.it/@AodhanHayter/string-disemvowler
-
+>
 > Solution: https://repl.it/@AodhanHayter/c0bb65138fb9059a9f780a34b7a3af83
-
+>
 > Kata Link: https://www.codewars.com/kata/disemvowel-trolls/javascript<br>
 
 **Advanced Toy Problem:**
 
 > Alpha Beta: https://repl.it/@AodhanHayter/alpha-beta
-
+>
 > Solution: https://repl.it/@AodhanHayter/70698729d112922d498a06aed7c207ab
-
+>
 > Kata Link: Not Applicable
 
 ### Tuesday:
 **Beginner Toy Problem:**
 
 > Printer Errors: https://repl.it/@AodhanHayter/printer-errors
-
+>
 > Solution: https://repl.it/@AodhanHayter/f5a5a222958c72f28dd65a100e0f9657
-
+>
 > Kata Link: https://www.codewars.com/kata/printer-errors
 
 **Advanced Toy Problem:**
 
 > Bubblesort Once: https://repl.it/@AodhanHayter/bubblesort-once
-
+>
 > Solution: https://repl.it/@AodhanHayter/4d8cec45bd3812304a49aae4e04c0408
-
+>
 > Kata Link: https://www.codewars.com/kata/bubblesort-once/train/javascript
 ### Wednesday:
 **Beginner Toy Problem:**
 
 > pig latin: https://repl.it/@AodhanHayter/pig-latin
-
+>
 > Solution: https://repl.it/@AodhanHayter/e053a053632d0d140111032294dc0f8d
-
+>
 > Kata Link: https://www.codewars.com/kata/simple-pig-latin
 
 **Advanced Toy Problem:**
 
 > HOF: https://repl.it/@AodhanHayter/HOF
-
+>
 > Solution: https://repl.it/@AodhanHayter/fb5328bf75581718cad30369ac98d8dc
-
+>
 > Kata Link: https://www.codewars.com/kata/coding-meetup-number-1-higher-order-functions-series-count-the-number-of-javascript-developers-coming-from-europe/javascript
 
 ### Thursday:
 **Beginner Toy Problem:**
 
 > Remove the Dubstep: https://repl.it/@AodhanHayter/remove-the-dubstep
-
+>
 > Solution: https://repl.it/@AodhanHayter/783daa467f6698bf5a0b0963aa67e498
-
+>
 > Kata Link: https://www.codewars.com/kata/dubstep
 
 
 **Advanced Toy Problem:**
 
 > Pete, the baker: https://repl.it/@AodhanHayter/pete-the-baker
-
+>
 > Solution: https://repl.it/@AodhanHayter/82309203f125822e930ed5568270d93f
-
+>
 > Kata Link: https://www.codewars.com/kata/pete-the-baker/train/javascript
 
 ## Week 3 TODO FINISH FROM HERE
