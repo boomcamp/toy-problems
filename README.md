@@ -1,4 +1,4 @@
-# Boom.Camp Toy Problems
+# Boom Camp Toy Problems
 
 This repository is for the storage of and reference to toy problems.
 
@@ -72,7 +72,7 @@ on the experience level of the current class. There are also links to solution p
 
 ## Week 2
 
-## Monday:
+### Monday:
 
 **Beginner Toy Problem:**
 
@@ -141,164 +141,208 @@ on the experience level of the current class. There are also links to solution p
 >
 > Kata Link: https://www.codewars.com/kata/pete-the-baker/train/javascript
 
-## Week 3 TODO FINISH FROM HERE
+## Week 3
 
-<h2>Monday:</h2><br/>
-<b>Beginner Toy Problem</b>: Counting Duplicates: (6) https://repl.it/HcXU/0<br/>
-Solution:  https://repl.it/HcXU/0 <br/>
-Kata Link: http://www.codewars.com/kata/counting-duplicates/train/javascript </br>
+### Monday:
+**Beginner Toy Problem:**
 
-<b> Advanced Toy Problem</b>: Generate HTML links(7) https://repl.it/Hmrt/1<br>
-Solution: https://repl.it/HmsB/1<br/>
-Kata Link: https://www.codewars.com/kata/generate-html-links/train/javascript<br>
+> Counting Duplicates: https://repl.it/@AodhanHayter/counting-duplicates
+>
+> Solution:  https://repl.it/@AodhanHayter/f5fba36500263222c81871fee0372cda
+>
+> Kata Link: http://www.codewars.com/kata/counting-duplicates/train/javascript
 
-<h2>Tuesday:</h2><br/>
-<b>Beginner Toy Problem</b>: Vowel Counter (7) https://repl.it/GQiF/1<br>
-Solution: https://repl.it/GQiG/8 <br>
-Kata Link: https://www.codewars.com/kata/vowel-count/train/javascript <br>
+**Advanced Toy Problem:**
 
-<b>Advanced Toy Problem</b>: Convert string to camel case (5) https://repl.it/Hin5/1<br>
-Solution: https://repl.it/GQaq/3 <br>
-Kata Link: https://www.codewars.com/kata/convert-string-to-camel-case/train/javascript
+> Generate HTML links: https://repl.it/@AodhanHayter/generate-html-links
+>
+> Solution: https://repl.it/@AodhanHayter/1fb02b5c33bc6d9f0774265965fa1385
+>
+> Kata Link: https://www.codewars.com/kata/generate-html-links/train/javascript<br>
 
-<h2>Wednesday:</h2><br/>
-<b>Beginner Toy Problem</b>: Square Each Number (7) https://repl.it/HX9U/1<br/>
-Kata Link: https://www.codewars.com/kata/square-every-digit<br/>
-Solution: https://repl.it/HX9o/0<br/>
+### Tuesday:
+**Beginner Toy Problem:**
+
+> Vowel Counter: https://repl.it/@AodhanHayter/vowel-counter
+>
+> Solution: https://repl.it/@AodhanHayter/c3d9b4d2acc03a1059ec84aa90bd7d4f
+>
+> Kata Link: https://www.codewars.com/kata/vowel-count/train/javascript <br>
+
+**Advanced Toy Problem:**
+
+> Convert string to camel case: https://repl.it/@AodhanHayter/convert-to-camel-case
+>
+> Solution: https://repl.it/@AodhanHayter/964a330c4e9cba2c15c44f05f5a06296
+>
+> Kata Link: https://www.codewars.com/kata/convert-string-to-camel-case/train/javascript
+
+### Wednesday:
+**Beginner Toy Problem:**
+
+> Square Each Number: https://repl.it/@AodhanHayter/square-each
+>
+> Solution: https://repl.it/@AodhanHayter/976ce16dbbf1585fc8b56490762b43a4
+>
+> Kata Link: https://www.codewars.com/kata/square-every-digit<br/>
 
 
-<b>Advanced Toy Problem</b>: 30 Character Countdown (5) https://repl.it/HU6J/1<br/>
-Kata Link: https://www.codewars.com/kata/one-line-task-count-down-i<br/>
-Solution: https://repl.it/HU6U/2<br/>
+**Advanced Toy Problem:**
 
-<h2>Thursday:</h2><br/>
-<b>Beginner Toy Problem</b>: The iccanobiF Sequence (7) https://repl.it/GQh8/3<br>
-Solution: https://repl.it/GQhl/2 <br>
-Kata Link: https://www.codewars.com/kata/the-iccanobif-sequence/train/javascript<br>
+> 30 Character Countdown: https://repl.it/@AodhanHayter/30-character-countdown
+>
+> Solution: https://repl.it/@AodhanHayter/810c8f8ac5fb8ee45ddcac50006e0e10
+>
+> Kata Link: https://www.codewars.com/kata/one-line-task-count-down-i<br/>
 
-<b>Advanced Toy Problem</b>: Selective Array Reversing : (6) https://repl.it/Hc47/1<br/>
-Solution: https://repl.it/Hc4r/1<br/>
-Kata Link: http://www.codewars.com/kata/selective-array-reversing/train/javascript <br/>
+### Thursday:
+**Beginner Toy Problem:**
 
-<h1>Week 4</h1>
+> The iccanobiF Sequence: https://repl.it/@AodhanHayter/iccanobif-sequence
+>
+> Solution: https://repl.it/@AodhanHayter/12ae906df9971c2a0b9e8127159959c6
+>
+> Kata Link: https://www.codewars.com/kata/the-iccanobif-sequence/train/javascript<br>
 
-<h2>Monday: </h2><br>
-<b>Beginner Toy Problem</b>: Human Readable Time (5) https://repl.it/HU65/1<br/>
-Kata Link: https://www.codewars.com/kata/human-readable-time<br/>
-Solution: https://repl.it/HU6h/2<br/>
+**Advanced Toy Problem:**
 
-<b>Advanced Toy Problem</b>: String incrementer (5) https://repl.it/GQ7E/0<br>
-Solution: https://repl.it/GQ7H/1 <br>
-Kata Link: https://www.codewars.com/kata/string-incrementer/train/javascript <br>
+> Selective Array Reversing: https://repl.it/@AodhanHayter/selective-array-reversing
+>
+> Solution: https://repl.it/@AodhanHayter/e7254e3ca2b886c829ccbcbc30f7518f
+>
+> Kata Link: http://www.codewars.com/kata/selective-array-reversing/train/javascript <br/>
 
-<h2>Tuesday: </h2><br>
-<b>Beginner Toy Problem</b>: Fold your way to the moon (7) https://repl.it/HO2Y/1<br/>
-Kata Link: https://www.codewars.com/kata/folding-your-way-to-the-moon<br/>
-Solution: https://repl.it/HO2a/2<br/>
+## Week 4
 
-<b>Advanced Toy Problem</b>: Directions Reduction (5) https://repl.it/HXqx/1<br/>
-Kata Link: https://www.codewars.com/kata/directions-reduction<br/>
-Solution: https://repl.it/HXra/5<br/>
+### Monday:
+**Beginner Toy Problem:**
 
-<h2>Wednesday: </h2><br>
-<b>Beginner Toy Problem</b>: ToLeetSpeak: (7) https://repl.it/HcPf/25 <br>
-Solution: https://repl.it/HcPi/3 <br>
-Kata Link: http://www.codewars.com/kata/toleetspeak
+> Human Readable Time https://repl.it/@AodhanHayter/human-readable-time
+>
+> Solution: https://repl.it/@AodhanHayter/e0115500e15fd38fd092a2f3259152ec
+>
+> Kata Link: https://www.codewars.com/kata/human-readable-time<br/>
 
-<b>Advanced Toy Problem</b>: RGB To Hex Conversion: (5) https://repl.it/HaRE/0<br>
-Solution: https://repl.it/HaQz/0<br>
-Kata Link: https://www.codewars.com/kata/rgb-to-hex-conversion/train/javascript
+**Advanced Toy Problem:**
 
-<h2>Thursday: </h2><br>
-<b>Beginner Toy Problem</b>:  Sort an Array by Value and Index: (7) https://repl.it/HS6E/0<br>
-Solution: https://repl.it/HSWH/12 <br>
-Kata Link: https://www.codewars.com/kata/sort-an-array-by-value-and-index <br/>
+> String incrementer: https://repl.it/@AodhanHayter/string-numbers
+>
+> Solution: https://repl.it/@AodhanHayter/d377854f178c46b11b8b5b7278d1baff
+>
+> Kata Link: https://www.codewars.com/kata/string-incrementer/train/javascript <br>
 
-<b>Advanced Toy Problem</b>: Convert A Hex String To RGB (5) : https://repl.it/HaSB/2 <br>
-Solution: https://repl.it/HaS4/3 <br>
-Kata Link: https://www.codewars.com/kata/convert-a-hex-string-to-rgb
+### Tuesday:
+**Beginner Toy Problem:**
 
-<h1>Week 5</h1>
+> Fold your way to the moon: https://repl.it/@AodhanHayter/folding-to-the-moon
+>
+> Solution: https://repl.it/@AodhanHayter/f54b60a4bcd2318c34486dc66e559b86
+>
+> Kata Link: https://www.codewars.com/kata/folding-your-way-to-the-moon<br/>
 
-<h2>Monday:</h2><br>
-<b>Beginner Toy Problem</b>: Valid Parenthesis: (5) https://repl.it/HcD1/1 <br>
-Solution: https://repl.it/HcDN/0 <br>
-Kata Link: https://www.codewars.com/kata/valid-parentheses/train/javascript <br>
+**Advanced Toy Problem:**
 
-<b>Advanced Toy Problem</b>: Guess The Gift!: (5) https://repl.it/HcN2/0 <br>
-Solution: https://repl.it/HcN4/1 <br>
-Kata Link: https://www.codewars.com/kata/guess-the-gifts
+> Directions Reduction: https://repl.it/@AodhanHayter/directions-reduction
+>
+> Solution: https://repl.it/@AodhanHayter/5a15c349d56a93f8d43875c4cc8bc143
+>
+> Kata Link: https://www.codewars.com/kata/directions-reduction<br/>
 
-<h2>Tuesday:</h2><br>
-<b>Beginner Toy Problem</b>: Next Perfect Square (7) https://repl.it/HUaY/1<br/>
-Kata Link: https://www.codewars.com/kata/find-the-next-perfect-square<br/>
-Solution: https://repl.it/HUah/1<br/>
+### Wednesday:
+**Beginner Toy Problem:**
 
-<b>Advanced Toy Problem</b>: Common Denominators (5) https://repl.it/GQea/1<br>
-Solution: https://repl.it/GQeg/2 <br>
-Kata Link: https://www.codewars.com/kata/common-denominators/train/javascript
+> toleetspeak: https://repl.it/@AodhanHayter/toleetspeak
+>
+> Solution: https://repl.it/@AodhanHayter/b5ade8bd1b5785da80b232fe0df2b407
+>
+> Kata Link: http://www.codewars.com/kata/toleetspeak
 
-<h2>Wednesday:</h2><br>
-<b>Beginner Toy Problem</b>: Mumbling (7) https://repl.it/HU9k/1 <br/>
-Kata Link: https://www.codewars.com/kata/mumbling <br/>
-Solution: https://repl.it/HU9p/2 <br/>
+**Advanced Toy Problem:**
 
-<b>Advanced Toy Problem</b>: Liquid Density (5) https://repl.it/HcAp/1<br/>
-Kata Link: https://www.codewars.com/kata/dont-drink-the-water<br/>
-Solution: https://repl.it/HcAy/1<br/>
+> RGB To Hex Conversion: https://repl.it/@AodhanHayter/rgb-to-hex
+>
+> Solution: https://repl.it/@AodhanHayter/cb75c26166ce21878740eab05ac10bec
+>
+> Kata Link: https://www.codewars.com/kata/rgb-to-hex-conversion/train/javascript
 
-<h2>Thursday:</h2><br>
-<b>Beginner Toy Problem</b>: Simple Fun #124: Lamps: (7) https://repl.it/HcPY/1 <br>
-Solution: https://repl.it/HcPP/1 <br>
-Kata Link: http://www.codewars.com/kata/simple-fun-number-124-lamps/train/javascript
+### Thursday:
+**Beginner Toy Problem:**
 
-<b>Advanced Toy Problem</b>: RPG Dice Roller (5) https://repl.it/HOTI/1<br/>
-Kata Link: https://www.codewars.com/kata/rpg-dice-roller<br/>
-Solution: https://repl.it/<br/>
+> Sort an Array by Value and Index: https://repl.it/@AodhanHayter/sort-by-value-and-index
+>
+> Solution: https://repl.it/@AodhanHayter/f656d62839da05698ab25f0f0f6812fa
+>
+> Kata Link: https://www.codewars.com/kata/sort-an-array-by-value-and-index <br/>
 
-<h1>Week 6</h1>
+**Advanced Toy Problem:**
 
-<h2>Monday: </h2><br/>
-<b>Beginner Toy Problem</b>: Caesar Cipher Helper (5) https://repl.it/HOTZ<br/>
-Kata Link: https://www.codewars.com/kata/caesar-cipher-helper<br/>
-Solution: https://repl.it/H9lR/5<br/>
+> Convert A Hex String To RGB: https://repl.it/@AodhanHayter/hex-to-rgb
+>
+> Solution: https://repl.it/@AodhanHayter/a928568b300069f8d8e19f35fe1633fd
+>
+> Kata Link: https://www.codewars.com/kata/convert-a-hex-string-to-rgb
 
-<b>Advanced Toy Problem</b>: Binary Christmas Tree (5) https://repl.it/HcB5/1<br/>
-Kata Link: https://www.codewars.com/kata/valid-binary-christmas-tree<br/>
-Solution: https://repl.it/HcC7/1<br/>
+## Week 5
 
-<h2>Tuesday:</h2> <br/>
-<b>Beginner Toy Problem</b>: Investing (7) https://repl.it/Hbyi/1<br/>
-Kata Link: https://www.codewars.com/kata/money-money-money/train/javascript<br/>
-Solution: https://repl.it/Hbys/3<br/>
+### Monday:
+**Beginner Toy Problem:**
 
-<b>Advanced Toy Problem</b>: Square Matrix Multiplication (5) https://repl.it/HcEH/2<br/>
-Kata Link: https://www.codewars.com/kata/square-matrix-multiplication<br/>
-Solution: https://repl.it/HcEm/5<br/>
+> Valid Parenthesis: https://repl.it/@AodhanHayter/valid-parenthesis
+>
+> Solution: https://repl.it/@AodhanHayter/882f2a7e9dd6aa079b334f8d49a8732f
+>
+> Kata Link: https://www.codewars.com/kata/valid-parentheses/train/javascript
 
-<h2>Wednesday: </h2><br/>
-<b>Beginner Toy Problem</b>: Persistence (6) https://repl.it/Hbuk/1<br/>
-Kata Link: https://www.codewars.com/kata/persistent-bugger<br/>
-Solution: https://repl.it/Hbur/1<br/>
+### Tuesday:
+**Beginner Toy Problem:**
 
-<b>Advanced Toy Problem</b>: Find the Divisors (6) https://repl.it/HbuF/1<br/>
-Kata Link: https://www.codewars.com/kata/find-the-divisors<br/>
-Solution: https://repl.it/HbuN/3<br/>
+> Mumbling: https://repl.it/@AodhanHayter/mumbling
+>
+> Solution: https://repl.it/@AodhanHayter/b40f8882e3a7c27aba22ecc3138727be
+>
+> Kata Link: https://www.codewars.com/kata/mumbling
 
-<h2>Thursday: </h2><br/>
-<b>Beginner Toy Problem</b>: Double Cola (5) https://repl.it/H5SJ/0<br/>
-Kata Link: https://www.codewars.com/kata/double-cola<br/>
-Solution: https://repl.it/H5SB/1<br/>
+## Week 6
 
-<b>Advanced Toy Problem</b>: Next Bigger (4) https://repl.it/GQfQ/0 <br/>
+### Monday:
+**Beginner Toy Problem:**
+
+> Caesar Cipher: https://repl.it/@AodhanHayter/caesar-cipher
+>
+> Solution: https://repl.it/@AodhanHayter/4a4200146c7eec178a04012d9227d491
+>
+> Kata Link: https://www.codewars.com/kata/caesar-cipher-helper<br/>
+
+### Tuesday:
+**Beginner Toy Problem:**
+
+> Investing: https://repl.it/@AodhanHayter/investing
+>
+> Solution: https://repl.it/@AodhanHayter/90b98c5cc1a24e976345e3b43eaa5a63
+>
+> Kata Link: https://www.codewars.com/kata/money-money-money/train/javascript
+
+**Advanced Toy Problem:**
+
+> Square Matrix Multiplication: https://repl.it/@AodhanHayter/square-matrix-multiplication
+>
+> Solution: https://repl.it/@AodhanHayter/5cc78a1c6a53d545c14aa03b3ede8d63
+>
+> Kata Link: https://www.codewars.com/kata/square-matrix-multiplication<br/>
+
+### Wednesday:
+**Beginner Toy Problem:**
+
+> Double Cola: https://repl.it/@AodhanHayter/double-cola
+>
+> Solution: https://repl.it/@AodhanHayter/2e024c866091d4072c4cfd1ac5f9c220
+>
+> Kata Link: https://www.codewars.com/kata/double-cola
+
+**Advanced Toy Problem:**
+
+Next Biggest: https://repl.it/@AodhanHayter/next-biggest
+
+Solution: https://repl.it/@AodhanHayter/6984e3b6f176ccc100ee350caf3d302c
+
 Kata Link: https://www.codewars.com/kata/next-bigger-number-with-the-same-digits <br/>
-Solution: https://repl.it/GQfV/0 <br/>
-
-<h1>Extra Toy Problems</h1>
-
-
-Beginner Toy Problem: Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right (8) https://repl.it/Hiow/1<br>
-Solution: https://repl.it/Hiot/0 <br>
-Kata Link: https://www.codewars.com/kata/exclamation-marks-series-number-6-remove-n-exclamation-marks-in-the-sentence-from-left-to-right/javascript
-
-
